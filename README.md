@@ -3,6 +3,12 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - Currently, I'm Applied Researcher at Tencent WeChat Group.
+- Before that, I worked at SenseTime for two years (from 2017 to 2019).
+- My interest focuses on 
+  - Computer vision and multimodal understanding.
+  - Large-scale distributed system and training.
+  - Content-based recommendation system.
+
 
 <br>
 
@@ -16,4 +22,4 @@
 
 ----
 
-Last Edited on: 23/09/2020
+Last Edited on: 11/26/2021
