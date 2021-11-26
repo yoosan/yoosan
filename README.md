@@ -1,6 +1,8 @@
 <h2> Hey, this is yoosan.👏 </h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+[![GitHub followers](https://img.shields.io/github/followers/yoosan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaoozhou?tab=followers) ![Profile views](https://gpvc.arturio.dev/yoosan)
+
+<h3> About Me </h3>
 
 - Currently, I'm Applied Researcher at Tencent WeChat Group.
 - Before that, I worked at SenseTime for two years (from 2017 to 2019).
@@ -9,17 +11,12 @@
   - Large-scale distributed system and training.
   - Content-based recommendation system.
 
+----
 
-<br>
-
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoosan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+<p align="center">
+  <img alt="yoosan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yoosan&show_icons=true&theme=radical&text_color=D3D3D3">
+</p>
 
 ----
 
-Last Edited on: 11/26/2021
+Last Updated on: 11/26/2021
