@@ -9,7 +9,7 @@
 - My interest focuses on 
   - Computer vision and multimodal understanding.
   - Large-scale distributed system and training acceleration.
-  - Content-based recommendation system .
+  - Content-based recommendation system e.g. short video.
 
 ----
 
