@@ -1,4 +1,4 @@
-<h2> Hey, this is yoosan.👏 </h2>
+<h2> Hi, this is yoosan.👏 </h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/yoosan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaoozhou?tab=followers) ![Profile views](https://gpvc.arturio.dev/yoosan)
 
@@ -8,8 +8,8 @@
 - Before that, I worked at SenseTime for two years (from 2017 to 2019).
 - My interest focuses on 
   - Computer vision and multimodal understanding.
-  - Large-scale distributed system and training.
-  - Content-based recommendation system.
+  - Large-scale distributed system and training acceleration.
+  - Content-based recommendation system .
 
 ----
 
