@@ -1,15 +1,15 @@
-<h2> Hi, this is yoosan.👏 </h2>
+<h2> Hi, this is yao.👏 </h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/yoosan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaoozhou?tab=followers) ![Profile views](https://gpvc.arturio.dev/yoosan)
 
 <h3> About Me </h3>
 
-- Currently, I'm Applied Researcher at Tencent WeChat Group.
-- Before that, I worked at SenseTime for two years (from 2017 to 2019).
+- Currently, I'm senior applied researcher at Tencent WeChat(微信) Group.
+- Before that, I was a computer vision researcher at SenseTime for two years (from 2017 to 2019).
 - My interest focuses on 
   - Computer vision and multimodal understanding.
   - Large-scale distributed system and training acceleration.
-  - Content-based recommendation system e.g. short video.
+  - Content-based recommendation system e.g. short videos.
 
 ----
 
