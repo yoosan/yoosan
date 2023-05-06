@@ -5,9 +5,8 @@
 <h3> About Me </h3>
 
 - Currently, I'm senior applied researcher at Tencent WeChat(微信) Group.
-- Before that, I was a computer vision researcher at SenseTime for two years (from 2017 to 2019).
-- My interest focuses on 
-  - Computer vision and multimodal understanding.
+- Before that, I was a researcher at SenseTime for two years (from 2017 to 2019).
+- My interest focuses on: 
   - Large-scale distributed system and training acceleration.
   - Content-based recommendation system e.g. short videos.
 
