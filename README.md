@@ -2,8 +2,8 @@
 
 <h3> About Me </h3>
 
-- Currently, I'm senior researcher at Tencent WeChat(微信) Group.
-- Before that, I was a researcher at SenseTime for two years (from 2017 to 2019).
+- Currently, I'm senior researcher at Tencent Weixin Group.
+- Before that, I was a researcher at SenseTime for two years (from 2017.5 to 2019.8).
 - My interest focuses on:
   - Foundation models
   - Large-scale distributed system and training acceleration.
